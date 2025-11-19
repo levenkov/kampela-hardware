@@ -1032,6 +1032,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 228.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 228.6 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
@@ -1246,6 +1264,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 242.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 242.57 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
@@ -1308,6 +1344,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 242.57 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 242.57 68.58 0)
 			(effects
 				(font
@@ -1527,6 +1581,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 261.62 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 261.62 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Kampela_G5"
 				(path "/f1094595-086c-43ea-a0be-6f801d9d8744"
@@ -1583,6 +1655,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 242.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 242.57 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 242.57 63.5 0)
 			(effects
 				(font
@@ -2020,6 +2110,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 242.57 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 242.57 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
@@ -2082,6 +2190,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 228.6 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 228.6 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 228.6 58.42 0)
 			(effects
 				(font

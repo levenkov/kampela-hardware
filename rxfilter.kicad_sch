@@ -1632,6 +1632,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" "581-KGM05AR71C104KN"
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 181.61 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "2518a404-c9ca-4497-b69d-ca6db2ed0fbc")
 		)
@@ -1781,6 +1799,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" "187-CL05C101JC51PNC"
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 123.19 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "db1882c8-d480-4234-9139-04f349a34c0e")
 		)
@@ -1848,6 +1884,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 105.41 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" "621-BAT54WS-F"
+			(at 105.41 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 105.41 87.63 0)
 			(effects
 				(font
@@ -2140,6 +2194,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 191.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 191.77 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "333c5ad8-9e00-447b-b0e9-6f6cc08985ee")
 		)
@@ -2204,6 +2276,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 132.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" "187-CL05C101JC51PNC"
+			(at 132.08 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 132.08 87.63 0)
 			(effects
 				(font
@@ -2279,6 +2369,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" "81-BLM15AG102SZ1D"
+			(at 176.53 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 176.53 64.77 0)
 			(effects
 				(font
@@ -2579,6 +2687,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" "926-LMV7271MG/NOPB"
+			(at 179.07 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 179.07 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "de7294a9-0a18-4ae2-9472-1c5e293b7ce4")
 		)
@@ -2737,6 +2863,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 160.02 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 160.02 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18e8e521-1098-4bcc-99f6-9e33aaf04316")
 		)
@@ -2803,6 +2947,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 90.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 90.17 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 90.17 87.63 0)
 			(effects
 				(font
@@ -2887,6 +3049,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 160.02 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 160.02 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "82f948d9-aced-4821-88e7-7d80bc45590d")
 		)
@@ -2955,6 +3135,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 142.24 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 142.24 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -3179,6 +3377,24 @@
 				(hide yes)
 			)
 		)
+		(property "MouserPN" ""
+			(at 142.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
+			(at 142.24 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "529233e1-9398-49cd-a9d3-1b8512fc2834")
 		)
@@ -3247,6 +3463,24 @@
 			)
 		)
 		(property "Description" ""
+			(at 113.03 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MouserPN" ""
+			(at 113.03 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Quantity" ""
 			(at 113.03 102.87 0)
 			(effects
 				(font
