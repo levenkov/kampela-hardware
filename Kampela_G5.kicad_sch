@@ -2231,6 +2231,11 @@
 					(page "3")
 				)
 			)
+			(project "Kampela_G5"
+				(path "/f1094595-086c-43ea-a0be-6f801d9d8744"
+					(page "3")
+				)
+			)
 		)
 	)
 	(sheet
@@ -2364,6 +2369,11 @@
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
 					(page "2")
+				)
+			)
+			(project "Kampela_G5"
+				(path "/f1094595-086c-43ea-a0be-6f801d9d8744"
+					(page "4")
 				)
 			)
 		)
@@ -2562,6 +2572,11 @@
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
 					(page "4")
+				)
+			)
+			(project "Kampela_G5"
+				(path "/f1094595-086c-43ea-a0be-6f801d9d8744"
+					(page "5")
 				)
 			)
 		)
@@ -2800,6 +2815,11 @@
 			(project "Kampela"
 				(path "/472e0f49-51e5-4b9c-a9f6-6aed0741c677"
 					(page "5")
+				)
+			)
+			(project "Kampela_G5"
+				(path "/f1094595-086c-43ea-a0be-6f801d9d8744"
+					(page "2")
 				)
 			)
 		)

@@ -105,6 +105,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "ignore",
         "item_on_disabled_layer": "error",
@@ -553,6 +554,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -658,24 +660,24 @@
       "Root"
     ],
     [
-      "66544aab-419b-42ce-b140-a8b6097cd9d6",
-      "Cap Block"
-    ],
-    [
-      "67eb4c15-878d-4392-8f98-b0db1677ce0d",
-      "RX Filter"
+      "da08338c-417a-4808-acf4-35a11b7a82db",
+      "MCU"
     ],
     [
       "107d2fe5-3a51-4aa0-a4ed-d8d997e2d812",
       "Power"
     ],
     [
-      "da08338c-417a-4808-acf4-35a11b7a82db",
-      "MCU"
+      "67eb4c15-878d-4392-8f98-b0db1677ce0d",
+      "RX Filter"
     ],
     [
       "7868ecaa-9431-43d7-95a8-9c0f01ec9958",
       "Display"
+    ],
+    [
+      "66544aab-419b-42ce-b140-a8b6097cd9d6",
+      "Cap Block"
     ]
   ],
   "text_variables": {}
