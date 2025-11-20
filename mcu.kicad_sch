@@ -5236,7 +5236,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "71-CRCW06032R20FNEA"
 			(at 119.38 53.34 0)
 			(effects
 				(font
@@ -5483,7 +5483,7 @@
 		(at 116.84 77.47 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6115,7 +6115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "71-CRCW040210K0FKEDC"
 			(at 223.52 55.88 0)
 			(effects
 				(font
@@ -6637,7 +6637,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "603-RC0402FR-071KL"
 			(at 151.13 77.47 0)
 			(effects
 				(font
@@ -6755,7 +6755,7 @@
 		(at 102.87 72.39 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "59660b42-13a0-4e7f-a488-e00d93aed19c")
@@ -7169,7 +7169,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "71-CRCW040210K0FKEDC"
 			(at 125.73 62.23 0)
 			(effects
 				(font
@@ -7214,7 +7214,7 @@
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6e5a398a-49ac-4582-82d3-20b8a0f9b5a4")
@@ -7463,7 +7463,7 @@
 		(at 102.87 80.01 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8392249e-b08c-4c3d-831a-c9da6e4566d0")
@@ -8615,7 +8615,7 @@
 		(at 102.87 74.93 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "b5ba193e-2c70-4794-ab52-b5fe4964fe17")
@@ -8851,7 +8851,7 @@
 		(at 102.87 87.63 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "c9d5a11c-2231-4799-ac60-b6b660b802ce")
@@ -9250,7 +9250,7 @@
 		(at 102.87 85.09 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ebcc54c8-44cd-4f49-940d-d939c9e72bf2")

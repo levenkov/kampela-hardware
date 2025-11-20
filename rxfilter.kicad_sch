@@ -2143,7 +2143,7 @@
 		(at 191.77 90.17 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -2863,7 +2863,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "594-MCS04020C4702FE0"
 			(at 160.02 107.95 0)
 			(effects
 				(font
@@ -2955,7 +2955,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "71-CRCW040210K0FKEDC"
 			(at 90.17 87.63 0)
 			(effects
 				(font
@@ -3049,7 +3049,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "652-CR0402FX5232GLF"
 			(at 160.02 78.74 0)
 			(effects
 				(font
@@ -3143,7 +3143,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "603-RC0402FR-7D100KL"
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -3377,7 +3377,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "603-RC0402FR-7D100KL"
 			(at 142.24 107.95 0)
 			(effects
 				(font
@@ -3471,7 +3471,7 @@
 				(hide yes)
 			)
 		)
-		(property "MouserPN" ""
+		(property "MouserPN" "652-CR0402FX5232GLF"
 			(at 113.03 102.87 0)
 			(effects
 				(font
